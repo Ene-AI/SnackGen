@@ -1,0 +1,172 @@
+Fire Peppers
+Description: Adds a spicy heat that also imparts resistance to cold when ingested.
+Effect: Grants Cold Resistance
+Adjective: Hot
+
+Moonleaf
+Description: A silvery herb that enhances night vision when brewed into a tea.
+Effect: Grants +10 additional ft of Darkvision
+
+Dragonsalt
+Description: A crystalline spice with a strong, savory flavor; enhances strength for a short period.
+Effect: Grants +1 to strength
+Adjective: Draconic
+
+Umbral Corn
+Description:  A purple corn that makes the consumer harder to detect in shadows.
+Effect: Grants +2 to stealth checks to hide
+Adjective: Shaded
+
+Faerie Flower Pollen
+Description: A glittering spice that induces mild euphoria and enhances creativity.
+Effect: Creatures that eat this treat must succeed a DC 12 Charisma saving throw or be charmed for 1 hour.
+Adjective: Sparkly
+
+Thunderseed
+Description: Small, round seeds that crackle with energy; temporarily increases agility.
+Effects: Increases movement speed by 5ft.
+Adjective Shocking
+
+Frostmint
+Description: A minty herb that cools the body and provides resistance to fire.
+Effect: Grants Fire Resistance
+Adjective: Cooling
+
+Ember Root
+Description: A spicy root that warms the body.
+Effect: Grants resistance to cold temperatures
+Adjective: Warming
+
+Dreamfluff
+Description: A fluffy, Cotton Candy-Like herb that induces vivid dreams and aids in prophetic visions.
+Effect: Gain +1 to your next Saving Throw
+Adjective: Dreamy
+
+Serpent's Kiss
+Description: A bitter green powder that can be used as an antidote for certain poisons when mixed into tea.
+Effect: Grants Resistance to Poison damage and advantage on saving throws against being poisoned.
+Adjective: Curing
+
+Trollroot
+Description: A Hearty bitter root that has restorative properties.
+Effect: Regain 3 hit point at the start of each of your turns so long as you are conscious.
+Adjective: Regenerating
+
+Gemberry Jelly
+Description: A Jelly made from mashed Yellow, Green, Red and Blue Gemberries. Used to enhance a meal.
+Effect: Double the effects of other ingredients used.
+Adjective Potent
+
+
+PROTEINS
+----------
+
+Firebird Breast
+Description:  Tender and juicy meat from a minor Phoenix, known for its slight warmth and spicy undertone.
+
+Griffon Drumsticks
+Description: Large, meaty drumsticks from the noble griffon, with a flavor similar to a mix between chicken and lion.
+
+Thunder Lizard Tail Medallions
+Description: Succulent and tender medallions from the tail of a Thunder Lizard known for its rich, exotic flavor.
+
+Minor Phoenix Eggs
+Description: Large, fiery eggs laid by a minor phoenix, with a rich, smoky flavor.
+
+Mystic Fish Fillet
+Description: Delicate fillets from a rare, luminescent fish that swims in enchanted desert oases.
+
+Prime Bear Haunch
+Description: This meat is rich and gamey, requiring long, slow cooking to bring out its best flavors.
+
+Wyvern Wings
+Description: Tough yet flavorful, these wings are often marinated in strong spices to tenderize the meat.
+
+Basilisk Fillet
+Description: This meat is prized for its tenderness and slight petrifying properties.
+
+
+SPECIAL MEALS
+------------------
+
+Fiery Moonbird Delight
+
+Description: A masterfully crafted dish that combines the tender, spicy meat of the firebird with a blend of exotic spices, creating a meal that is both flavorful and magically potent.
+
+Ingredients: Firebird Breast, Fire Peppers, Moonleaf, Dragonsalt, Thunderseed
+
+Effect: A creature who eats this meal is always comfortably warm and is resistant to cold damage. The creature also recovers hit points equal to 1d10 + your proficency bonus at the start of each of their turns. These effects last until their next Long Rest.
+
+
+Spiced Griffon Drumsticks
+
+Description: These drumsticks from the noble griffon are marinated and roasted with an array of magical spices, creating a dish that is both hearty and enchanted, favored by warriors and scouts alike.
+
+Ingredients: Griffon Drumsticks, Dragonsalt, Ember root, Faerie Flower Pollen, Frostmint
+
+Effect: Grants +3 to acrobatics checks when eaten. A creature who eats this meal also gains advantage on perception checks used to spot things at far distances. These effects last until their next Long Rest.
+
+
+Shadow Grilled Thunder Lizard Tail Steaks
+
+Description: Slices of thunder lizard tail, known for their rich and gamey flavor, are transformed into medallions and infused with powerful magical spices.
+
+Ingredients: Thunderlizard Tail Medallions, Umbral Corn, Frostmint, Gemberry Jelly, Fire Peppers
+
+Effect: Grants +3 to stealth checks when eaten. A creature who eats the meal also gains Immunity to lightning damage. These effects last until their next Long Rest.
+
+
+Inferno Eggs
+
+Description: These legendary eggs from the Minor Phoenix are prepared with a selection of magical spices, creating a dish that is not only flavorful but also grants remarkable abilities. This dish is particularly popular among spellcasters.
+
+Ingredients: Minor Phoenix Eggs, Dragonsalt, Trollroot, Faerie Flower Pollen, Serpent's Kiss
+
+Effect: A creature who eats this meals gains a +2 to their Spell Save DC for their spellcasting feature. These effects last until their next Long Rest.
+
+
+Mystic Fish Sashimi
+
+Description: A refined and elegant dish featuring thinly sliced fillets of the rare mystic fish, known for their delicate texture and subtle, ethereal flavor. This sashimi is carefully prepared to preserve the natural luminescence of the fish.
+
+Ingredients: Mystic Fish Fillet, Frostmint, Dreamfluff, Faerie Flower Pollen, Gemberry Jelly
+
+Effect: A creature who eats this gains Resistance to cold damage and the effects of the Water Breathing Spell. The creature also emits bright White-Blue Light up to 10ft and dim light for another 5ft. These effects last until their next Long Rest.
+
+
+Prime Bear Haunch
+
+Description: A hearty and robust dish featuring a prime cut of dire bear haunch, expertly prepared to showcase its rich, gamey flavor. This meal is known for its ability to fortify those who consume it, providing enhanced physical strength and resilience.
+
+Ingredients: Prime Bear Haunch, Dragon Salt, Fire Peppers, Trollroot, Ember root
+
+Effects: Grants advantage on Constitution saving throws and +2 to strength. A creature who eats this meal also gains 15 Temporary hit points. These effects last until their next Long Rest.
+
+
+Roasted King Wyvern Wings
+
+Description: This dish features succulent wyvern wings, marinated and roasted to perfection, offering a unique and flavorful experience. Known for their slightly spicy and savory taste, this dish is popular among adventurers who need to bolster their resilience and agility.
+
+Ingredients: Wyvern Wings, Thunderseed, Ember root, Serpent's Kiss, Umberal Corn
+
+Effect: Grants immunity to poison damage and advantage against being poisoned. A creature who eats this meal also gains +3 to their athletics. These effects last until their next Long Rest.
+
+
+Stoneskin Steaks
+
+Description: A luxurious and potent dish featuring tender fillets from the elusive basilisk, known for their rich texture and subtly earthy flavor. This exquisite preparation is seasoned with a blend of magical spices that enhance the eater’s physical and defensive capabilities.
+
+Ingredients: Basilisk Fillet, Serpents Kiss, Gemberry Jelly, Trollroot, Fire Peppers
+
+Effect: A creature who eats this meal gains the effects of the stoneskin spell. Their AC is also increased by 1. These effects last until their next Long Rest.
+
+
+TEAS
+--------
+
+Teas can only be made with ingredients that specify they must be made as a tea. If a snack includes an ingredient that must be brewed as teas and one that does not specify that it can be used for tea, the resulting snack only gains the non-tea ingredients effects. Teas can gain multiple effects but only if all ingredients are specified for Teas.
+
+Tea specific ingredients include:
+
+- Moonleaf
+- Serpent's Kiss
